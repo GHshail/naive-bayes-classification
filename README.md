@@ -40,4 +40,4 @@ Open `Module20_assignment_student.ipynb` and run the cells from top to bottom. K
 
 The SMS Spam Collection is associated with the UCI Machine Learning Repository. See the [dataset page](https://archive.ics.uci.edu/dataset/228/sms+spam+collection) for dataset details and usage information. Retain appropriate attribution and review the dataset's terms before redistributing it.
 
-This notebook was completed as a Module 20 assignment on machine learning and advanced probability.
+This notebook was completed as an assignment on machine learning and advanced probability.
